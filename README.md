@@ -1,4 +1,4 @@
-# 'The Chaser' Analysis Project:
+# Data Analysis Project - Analysing the 'Chaser' gameshow data
 
 This project was made as part of the 'Data Analysis & Statistics' course in the Engineering faculty at Tel-Aviv University.
 
